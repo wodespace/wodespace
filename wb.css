@@ -1,0 +1,14 @@
+body{
+    background-image: url("bg.jpg");
+}
+img{
+    width:51px ;
+    height:46px ;
+    border-radius :10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius :10px;
+}
+p{
+    color:white;
+    font-weight:bold;
+}
